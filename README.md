@@ -29,7 +29,7 @@ priority 20 : 1.2.3.4
 priority 10 : 5.6.7.8
 ```
 
-Se usate un nameserver ( dns ) non tim, es. 8.8.8.8 di Google o altri, occorre specificare il nameserver nello script affinchè vengano risolti gli indirizzi.  
+Se usate un nameserver ( dns ) non tim, es. 8.8.8.8 di Google o altri, occorre specificare il nameserver ufficiale nello script affinchè vengano risolti gli indirizzi.  
 Il nameserver ufficiale viene visualizzato dal fritzbox nella pagina internet > monitor online
 
 Es.
