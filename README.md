@@ -44,13 +44,13 @@ priority 10 : 5.6.7.8
 Per configurare la linea voip quindi tim vi dice:
 
 I dati che hai richiesto per configurare il tuo modem sono:
-Numero linea **PP NNNNNNN**  
-outboundProxy :	*BBBB.co.imsw.telecomitalia.it*  
-sipKey :	**XXXXXXXXXXXXXXX**  
+Numero linea **PP NNN**  
+outboundProxy :	**XXX.co.imsw.telecomitalia.it** 
+sipKey :	**XXXXXX**  
 
 Sul fritz vanno messi i seguenti parametri per la linea
 
-Nome utente: **+39PPNNNNNN**  
+Nome utente: **+39PPNNN**  
 Password: **XXXXXX**  
 Registrar: **telecomitalia.it:5060**  
 Server proxy **1.2.3.4** ( *priorità 10 o 20, estratto con lo script python a partire da outboundProxy* )  
