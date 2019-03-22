@@ -54,7 +54,7 @@ Sul fritz vanno messi i seguenti parametri per la linea
 Nome utente: **+39PPNNN**  
 Password: **XXXXXX**  
 Registrar: **telecomitalia.it:5060**  
-Server proxy **1.2.3.4** ( *priorità 10 o 20, estratto con lo script python a partire da outboundProxy* )  
+Server proxy **1.2.3.4** ( *estratto con lo script python a partire da outboundProxy, inserire quello a priorità minore* )  
 
 Riferimenti:  
 https://www.voip-info.org/dns-srv/  
