@@ -43,10 +43,11 @@ priority 10 : 5.6.7.8
 
 Per configurare la linea voip quindi tim vi dice:
 
-I dati che hai richiesto per configurare il tuo modem sono:
+I dati che hai richiesto per configurare il tuo modem sono:  
 Numero linea **PP NNN**  
-outboundProxy :	**XXX.co.imsw.telecomitalia.it** 
+outboundProxy :	**XXX.co.imsw.telecomitalia.it**  
 sipKey :	**XXXXXX**  
+
 
 Sul fritz vanno messi i seguenti parametri per la linea
 
