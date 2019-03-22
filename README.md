@@ -38,14 +38,9 @@ sipKey :	**XXXXXXXXXXXXXXX**
 
 Sul fritz vanno messi i seguenti parametri per la linea
 
-Dati accesso:  
-Nome utente  
-**+39PPNNNNNN**  
-Password **XXXXXX**  
-Registrar **telecomitalia.it:5060**  
+Nome utente: **+39PPNNNNNN**  
+Password: **XXXXXX**  
+Registrar: **telecomitalia.it:5060**  
 Server proxy **1.2.3.4** ( *priorità 10 o 20, estratto con lo script python a partire da outboundProxy* )  
-
-
-
 
 
