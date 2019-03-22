@@ -44,8 +44,8 @@ Registrar: **telecomitalia.it:5060**
 Server proxy **1.2.3.4** ( *priorità 10 o 20, estratto con lo script python a partire da outboundProxy* )  
 
 Riferimenti:  
-(https://www.voip-info.org/dns-srv/)  
-(https://anders.com/cms/263/Tutorial/SIP/DNS/SRV/djbdns)  
+https://www.voip-info.org/dns-srv/  
+https://anders.com/cms/263/Tutorial/SIP/DNS/SRV/djbdns  
 
 
 
